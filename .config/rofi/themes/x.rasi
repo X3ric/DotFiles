@@ -69,10 +69,3 @@ element {
 element selected {
   background-color: @border;
 }
-
-element-icon {
-}
-
-element-text {
-
-}
